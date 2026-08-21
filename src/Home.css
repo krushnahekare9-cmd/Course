@@ -1,0 +1,52 @@
+.ui{
+    height: 220px;
+    border: 1px solid wheat;
+    
+     display: flex;
+    justify-content: space-between;
+}
+.hh{
+    height: 180px;
+    width: 220px;
+    border: 1px solid black;
+    background-color: aquamarine;
+
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.lo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 10px;
+}
+.gh{
+    height: 700px;
+    border: 1px solid black;
+    background-image: url("https://img.magnific.com/free-vector/flat-background-world-teacher-s-day-celebration_23-2150722546.jpg?semt=ais_test_b&w=740&q=80");
+    background-size: cover;
+    margin-top: 5px;
+}
+.yy{
+    display: flex;
+    height: 150px;
+    width: 150px;
+   
+}
+.uu{
+    font-size: 50px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.hh:hover{
+    background-color:blueviolet;
+    box-shadow: 10px 20px 30px;
+    transform: translateY(-15px);
+}
+.fuc{
+    height: 30px;
+    width: 30px;
+}

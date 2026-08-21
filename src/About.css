@@ -1,0 +1,47 @@
+.vg{
+    display: flex;
+    justify-content: space-between;
+}
+.io{
+    display: flex;
+    height: 150px;
+    width: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+}
+.we{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.ff{
+    height: 200px;
+    width: 150px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 15px;
+}
+.jj{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 25px;
+}
+.re{
+    height: 700px;
+    border: 1px solid black;
+    background-image: url("https://img.magnific.com/premium-photo/minimalist-business-professionals-connected-by-digital-lines-white-background_1304121-1312.jpg?semt=ais_test_b&w=740&q=80");
+    background-size:contain;
+    margin-top: 5px;
+}
+.ff:hover{
+    background-color: aquamarine;
+    box-shadow: 10px 20px 30px;
+    transform: translateY(-15px);
+}
+.yac{
+    height: 40px;
+    width: 40px;
+}
